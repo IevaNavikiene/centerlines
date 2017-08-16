@@ -1,0 +1,9 @@
+/nbproject
+/build
+/python/data
+*.pyc
+*.tif
+*.vtp
+*.csv
+*.vti
+*.pyc
